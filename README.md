@@ -547,11 +547,16 @@ Verulam Blue Mint focuses on:
 - **Auto-validated KPIs and tasks** – results are checked against reference outputs, so you can use projects like this for training, hiring exercises, or internal upskilling with immediate feedback.  
 - **Portfolio-ready work** – each project is designed so analysts and engineers can turn their solutions into credible GitHub case studies and interview stories.
 
+<<<<<<< HEAD
 
 **For consultancy enquiries, platform access, or to discuss similar healthcare or operational analytics projects, please visit:**
 
 [![Website](./assets/badges/website.svg)](https://www.verulamblue.com)
 [![Email](./assets/badges/email.svg)](mailto:vbm@verulamblue.com)
+=======
+For consultancy enquiries, platform access, or to discuss similar healthcare or operational analytics projects, please visit:
+[Verulam Blue Mint](https://verulamblue.com/)
+>>>>>>> 82fcdc40ad20ee045207c65617bee742754b39e4
 
 <p>
   <img
