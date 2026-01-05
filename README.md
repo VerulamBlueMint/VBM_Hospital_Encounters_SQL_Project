@@ -30,6 +30,8 @@ Our job was to:
 - `C08_l01_healthcare_encounters_data_table` — anonymised NHS-style acute care encounters dataset (one row per encounter: attendance or admission)  
   [Link to data](https://verulamblue.com/challenges)
 
+---
+
 ## 2) Deliverables
 
 ### SQL deliverables
@@ -73,6 +75,7 @@ Headline points:
 
 **In short:** the KPIs describe a credible district general hospital with realistic volumes, a plausible case-mix, efficient bed use, and a 30-day readmission rate that compares favourably with many peers.
 
+---
 
 ## 4) Business Context & Objectives
 
@@ -544,9 +547,11 @@ Verulam Blue Mint focuses on:
 - **Auto-validated KPIs and tasks** – results are checked against reference outputs, so you can use projects like this for training, hiring exercises, or internal upskilling with immediate feedback.  
 - **Portfolio-ready work** – each project is designed so analysts and engineers can turn their solutions into credible GitHub case studies and interview stories.
 
-For consultancy enquiries, platform access, or to discuss similar healthcare or operational analytics projects, please visit:
 
-[Verulam Blue Mint](https://verulamblue.com/)
+**For consultancy enquiries, platform access, or to discuss similar healthcare or operational analytics projects, please visit:**
+
+[![Website](./assets/badges/website.svg)](https://www.verulamblue.com)
+[![Email](./assets/badges/email.svg)](mailto:vbm@verulamblue.com)
 
 <p>
   <img
@@ -556,3 +561,8 @@ For consultancy enquiries, platform access, or to discuss similar healthcare or 
     style="border:2px solid #d0d7de; border-radius:12px;"
   />
 </p>
+
+
+
+
+

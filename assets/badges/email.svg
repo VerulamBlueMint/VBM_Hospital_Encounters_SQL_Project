@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="28" role="img" aria-label="Email: vbm@verulamblue.com">
+  <!-- grey label -->
+  <path d="M6 0h54v28H6a6 6 0 0 1-6-6V6a6 6 0 0 1 6-6z" fill="#555555"></path>
+  <!-- blue value -->
+  <path d="M60 0h130a6 6 0 0 1 6 6v16a6 6 0 0 1-6 6H60V0z" fill="#2B6BFF"></path>
+
+  <text x="12" y="19" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Email</text>
+  <text x="70" y="19" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" textLength="116" lengthAdjust="spacingAndGlyphs">vbm@verulamblue.com</text>
+</svg>
