@@ -545,7 +545,6 @@ Verulam Blue Mint focuses on:
 - **Portfolio-ready work** – each project is designed so analysts and engineers can turn their solutions into credible GitHub case studies and interview stories.
 
 For consultancy enquiries, platform access, or to discuss similar healthcare or operational analytics projects, please visit:
-
 [Verulam Blue Mint](https://verulamblue.com/)
 
 <p>
